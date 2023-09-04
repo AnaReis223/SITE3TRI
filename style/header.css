@@ -58,10 +58,14 @@ background-color: var(--branco);
     display: none;
 }
 
+.container__titulo{
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
     .container__titulo,
     .container__titulo--negrito{
-        font-family: var(--fonte-secundario);
+        font-family: var(--fonte-secundaria);
         font-size: 30px;
     }
 
@@ -73,6 +77,7 @@ background-color: var(--branco);
 .container__titulo--negrito{
     font-weight: 700;
 }
+
 
 /* somente na segunda mudança */
 /* .opções{
