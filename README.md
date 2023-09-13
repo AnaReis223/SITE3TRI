@@ -1,3 +1,3 @@
 # BRBTURMA_2E
 
-Ana Beatriz N02 e Jorge N15
+Ana Beatriz N02 
